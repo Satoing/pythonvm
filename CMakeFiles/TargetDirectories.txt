@@ -1,0 +1,5 @@
+/root/program/interpreter/pythonvm/CMakeFiles/pythonvm.dir
+/root/program/interpreter/pythonvm/CMakeFiles/pyvm.dir
+/root/program/interpreter/pythonvm/CMakeFiles/math.dir
+/root/program/interpreter/pythonvm/CMakeFiles/edit_cache.dir
+/root/program/interpreter/pythonvm/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/pythonvm.dir/main.cpp.o -o pythonvm  -Wl,-rpath,/root/program/interpreter/pythonvm libpyvm.so -ldl -ldl 
